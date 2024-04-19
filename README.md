@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DSvidyutbhaskariitj
 - 👀 I’m interested in Data Science and Engineering
-- 🌱 I’m currently learning Database for DataScient
+- 🌱 I’m currently learning techniques of Data Engineering
 - 💞️ I’m looking to collaborate on B2B projects
 - 📫 How to reach me - vidyut.bhaskar@gmail.com/g23ai2128@iitj.ac.in
 - 😄 Pronouns: He/Him
